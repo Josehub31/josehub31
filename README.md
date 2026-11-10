@@ -1,16 +1,17 @@
-## Hi there 👋
+Hola, soy Jose Antonio Bejerano 👋
 
-<!--
-**Josehub31/josehub31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de 2.º de Desarrollo de Aplicaciones Web (DAW) en modalidad semipresencial.
 
-Here are some ideas to get you started:
+Vengo de más de 13 años en el mundo comercial (telefonía, energía y atención al cliente), donde he liderado equipos y trabajado a diario con CRM y datos de clientes. Ahora me formo como desarrollador web para unir esa experiencia con la tecnología.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Con qué trabajo
+Web: HTML, CSS, XML
+Bases de datos: SQL
+Programación: Java
+Herramientas: Git y GitHub
+📂 Proyectos
+
+Aquí iré subiendo los proyectos que desarrolle durante el ciclo. Los más destacados están fijados en mi perfil.
+
+📫 Contacto
+Correo: Josebjcu@gmail.com
